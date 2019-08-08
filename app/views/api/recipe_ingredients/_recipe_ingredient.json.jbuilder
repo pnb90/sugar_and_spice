@@ -1,0 +1,5 @@
+json.id recipe_ingredient.id
+json.recipe_id recipe_ingredient.recipe_id
+json.ingredient_id recipe_ingredient.ingredient_id
+json.price recipe_ingredient.price
+json.weight recipe_ingredient.weight
