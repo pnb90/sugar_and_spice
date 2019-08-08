@@ -1,0 +1,1 @@
+json.partial! @recipe_ingredient, partial: "recipe_ingredient", as: :recipe_ingredient 
